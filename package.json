@@ -1,12 +1,12 @@
 {
-  "name": "main",
+  "name": "simple-exponentiation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple module that will help you with exponentiation",
   "main": "index.js",
   "scripts": {
     "test": "spec.js"
   },
-  "author": "",
+  "author": "Nick Zahornyi",
   "license": "ISC",
   "dependencies": {
     "jasmine": "^2.4.1",
