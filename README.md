@@ -1,5 +1,5 @@
 # simple-exponentiation
-The simple module that helps you with exponentiation.
+The simple module that will help you with exponentiation.
 
 ## Installation
 
